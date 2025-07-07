@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\https---github.com-risonho123-repositorio_3A.git.props" />
+</Project>

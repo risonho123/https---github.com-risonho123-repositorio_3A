@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "https---github.com-risonho123-repositorio_3A.git/1.0.0": {
+        "runtime": {
+          "https---github.com-risonho123-repositorio_3A.git.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "https---github.com-risonho123-repositorio_3A.git/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
