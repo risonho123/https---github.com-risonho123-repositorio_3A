@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\https---github.com-risonho123-repositorio_3A.git.bundle.scp.css",
-      "PackagePath": "staticwebassets\\https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.bundle.scp.css"
+      "PackagePath": "staticwebassets\\https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\app.css",
@@ -11,6 +11,10 @@
     {
       "Id": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\imagens\\download.jpg",
+      "PackagePath": "staticwebassets\\imagens\\download.jpg"
     },
     {
       "Id": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

@@ -36,23 +36,41 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>https---github.com-risonho123-repositorio_3A.git</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/https---github.com-risonho123-repositorio_3A.git</BasePath>
-      <RelativePath>https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.bundle.scp.css</RelativePath>
+      <RelativePath>https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>qgm9qy83im</Fingerprint>
-      <Integrity>BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=</Integrity>
+      <Fingerprint>cg8v9crgu3</Fingerprint>
+      <Integrity>jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.bundle.scp.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\download.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>https---github.com-risonho123-repositorio_3A.git</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/https---github.com-risonho123-repositorio_3A.git</BasePath>
+      <RelativePath>imagens/download.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>smlrq8ht0y</Fingerprint>
+      <Integrity>RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\download.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))">
       <SourceType>Package</SourceType>

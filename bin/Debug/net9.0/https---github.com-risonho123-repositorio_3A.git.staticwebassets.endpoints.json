@@ -383,13 +383,13 @@
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.styles.css",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.styles.css",
       "AssetFile": "https---github.com-risonho123-repositorio_3A.git.styles.css.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000554016620"
+          "Quality": "0.000559597090"
         }
       ],
       "ResponseHeaders": [
@@ -407,7 +407,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -415,15 +415,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "W/\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Vary",
@@ -433,11 +433,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         },
         {
           "Name": "label",
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.styles.css",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.styles.css",
       "AssetFile": "https---github.com-risonho123-repositorio_3A.git.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -460,7 +460,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6043"
+          "Value": "5914"
         },
         {
           "Name": "Content-Type",
@@ -468,21 +468,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         },
         {
           "Name": "label",
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.styles.css.gz",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.styles.css.gz",
       "AssetFile": "https---github.com-risonho123-repositorio_3A.git.styles.css.gz",
       "Selectors": [],
       "ResponseHeaders": [
@@ -509,7 +509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -517,11 +517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Vary",
@@ -531,11 +531,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs="
+          "Value": "sha256-JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y="
         },
         {
           "Name": "label",
@@ -550,7 +550,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000554016620"
+          "Quality": "0.000559597090"
         }
       ],
       "ResponseHeaders": [
@@ -568,7 +568,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -576,15 +576,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "W/\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Vary",
@@ -594,7 +594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
@@ -613,7 +613,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6043"
+          "Value": "5914"
         },
         {
           "Name": "Content-Type",
@@ -621,17 +621,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
@@ -654,7 +654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -662,11 +662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Vary",
@@ -676,7 +676,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs="
+          "Value": "sha256-JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/download.jpg",
+      "AssetFile": "imagens/download.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Jul 2025 00:51:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/download.smlrq8ht0y.jpg",
+      "AssetFile": "imagens/download.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Jul 2025 00:51:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "smlrq8ht0y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA="
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/download.jpg"
         }
       ]
     },

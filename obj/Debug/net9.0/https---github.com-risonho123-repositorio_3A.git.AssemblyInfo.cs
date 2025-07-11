@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("https---github.com-risonho123-repositorio_3A.git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97f5391083174f6699d270fb11cf07b2817c2d2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e1c18d8891b6e16fde09d0ba25b49261424c4b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("https---github.com-risonho123-repositorio_3A.git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("https---github.com-risonho123-repositorio_3A.git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -145,8 +145,6 @@ C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\compressed\7rl8zr6t8x-h1s4sie4z3.gz
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\compressed\5d8cy7v5jp-4d85u1mtcx.gz
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\compressed\5q499acoq5-0j3bgjxly4.gz
-C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\compressed\ok9ytxiu88-qgm9qy83im.gz
-C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\compressed\z9a1n4tvof-qgm9qy83im.gz
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -158,3 +156,5 @@ C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\https---github.com-risonho123-repositorio_3A.git.genruntimeconfig.cache
 C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\ref\https---github.com-risonho123-repositorio_3A.git.dll
+C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\compressed\ok9ytxiu88-cg8v9crgu3.gz
+C:\Users\duduf\Documents\GitHub\https---github.com-risonho123-repositorio_3A\obj\Debug\net9.0\compressed\z9a1n4tvof-cg8v9crgu3.gz

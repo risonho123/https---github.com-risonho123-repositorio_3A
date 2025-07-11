@@ -22,56 +22,55 @@ main[b-dpj23lciq6] {
     align-items: center;
 }
 
-    .top-row[b-dpj23lciq6]  a, .top-row[b-dpj23lciq6]  .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
+.top-row[b-dpj23lciq6]  a,
+.top-row[b-dpj23lciq6]  .btn-link {
+    white-space: nowrap;
+    margin-left: 1.5rem;
+    text-decoration: none;
+}
 
-    .top-row[b-dpj23lciq6]  a:hover, .top-row[b-dpj23lciq6]  .btn-link:hover {
-        text-decoration: underline;
-    }
+.top-row[b-dpj23lciq6]  a:hover,
+.top-row[b-dpj23lciq6]  .btn-link:hover {
+    text-decoration: underline;
+}
 
-    .top-row[b-dpj23lciq6]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
+.top-row[b-dpj23lciq6]  a:first-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 
 @media (max-width: 640.98px) {
     .top-row[b-dpj23lciq6] {
         justify-content: space-between;
     }
-
-    .top-row[b-dpj23lciq6]  a, .top-row[b-dpj23lciq6]  .btn-link {
+    .top-row[b-dpj23lciq6]  a,
+    .top-row[b-dpj23lciq6]  .btn-link {
         margin-left: 0;
     }
 }
 
-@media (min-width: 641px) {
+@Body @media (min-width: 641px) {
     .page[b-dpj23lciq6] {
         flex-direction: row;
     }
-
     .sidebar[b-dpj23lciq6] {
         width: 250px;
         height: 100vh;
         position: sticky;
         top: 0;
     }
-
     .top-row[b-dpj23lciq6] {
         position: sticky;
         top: 0;
         z-index: 1;
     }
-
     .top-row.auth[b-dpj23lciq6]  a:first-child {
         flex: 1;
         text-align: right;
         width: 0;
     }
-
-    .top-row[b-dpj23lciq6], article[b-dpj23lciq6] {
+    .top-row[b-dpj23lciq6],
+    article[b-dpj23lciq6] {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
@@ -91,12 +90,12 @@ main[b-dpj23lciq6] {
     z-index: 1000;
 }
 
-    #blazor-error-ui .dismiss[b-dpj23lciq6] {
-        cursor: pointer;
-        position: absolute;
-        right: 0.75rem;
-        top: 0.5rem;
-    }
+#blazor-error-ui .dismiss[b-dpj23lciq6] {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}
 /* _content/https---github.com-risonho123-repositorio_3A.git/Components/Layout/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-39xqvin14u] {
     appearance: none;
@@ -117,7 +116,7 @@ main[b-dpj23lciq6] {
 
 .top-row[b-39xqvin14u] {
     min-height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .navbar-brand[b-39xqvin14u] {
@@ -151,33 +150,33 @@ main[b-dpj23lciq6] {
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-39xqvin14u] {
-        padding-top: 1rem;
-    }
+.nav-item:first-of-type[b-39xqvin14u] {
+    padding-top: 1rem;
+}
 
-    .nav-item:last-of-type[b-39xqvin14u] {
-        padding-bottom: 1rem;
-    }
+.nav-item:last-of-type[b-39xqvin14u] {
+    padding-bottom: 1rem;
+}
 
-    .nav-item[b-39xqvin14u]  .nav-link {
-        color: #d7d7d7;
-        background: none;
-        border: none;
-        border-radius: 4px;
-        height: 3rem;
-        display: flex;
-        align-items: center;
-        line-height: 3rem;
-        width: 100%;
-    }
+.nav-item[b-39xqvin14u]  .nav-link {
+    color: #d7d7d7;
+    background: none;
+    border: none;
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    line-height: 3rem;
+    width: 100%;
+}
 
 .nav-item[b-39xqvin14u]  a.active {
-    background-color: rgba(255,255,255,0.37);
+    background-color: rgba(255, 255, 255, 0.37);
     color: white;
 }
 
 .nav-item[b-39xqvin14u]  .nav-link:hover {
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255, 255, 255, 0.1);
     color: white;
 }
 
@@ -185,7 +184,7 @@ main[b-dpj23lciq6] {
     display: none;
 }
 
-.navbar-toggler:checked ~ .nav-scrollable[b-39xqvin14u] {
+.navbar-toggler:checked~.nav-scrollable[b-39xqvin14u] {
     display: block;
 }
 
@@ -193,11 +192,9 @@ main[b-dpj23lciq6] {
     .navbar-toggler[b-39xqvin14u] {
         display: none;
     }
-
     .nav-scrollable[b-39xqvin14u] {
         /* Never collapse the sidebar for wide screens */
         display: block;
-
         /* Allow sidebar to scroll for tall menus */
         height: calc(100vh - 3.5rem);
         overflow-y: auto;

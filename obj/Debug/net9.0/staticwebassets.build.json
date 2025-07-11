@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j6DOQgHZ+lsboh7intIS1skHoq46RRZC863kzlhAxlA=",
+  "Hash": "WP3vuJO4pxD5YbQXJ/pCUJuq0yy3aiUhgrgwu7QZgkE=",
   "Source": "https---github.com-risonho123-repositorio_3A.git",
   "BasePath": "_content/https---github.com-risonho123-repositorio_3A.git",
   "Mode": "Default",
@@ -752,12 +752,12 @@
       "OriginalItemSpec": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-qgm9qy83im.gz",
+      "Identity": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-cg8v9crgu3.gz",
       "SourceId": "https---github.com-risonho123-repositorio_3A.git",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/https---github.com-risonho123-repositorio_3A.git",
-      "RelativePath": "https---github.com-risonho123-repositorio_3A.git#[.{fingerprint=qgm9qy83im}]?.styles.css.gz",
+      "RelativePath": "https---github.com-risonho123-repositorio_3A.git#[.{fingerprint=cg8v9crgu3}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -766,8 +766,8 @@
       "RelatedAsset": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\bundle\\https---github.com-risonho123-repositorio_3A.git.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5nhll9qe9n",
-      "Integrity": "b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=",
+      "Fingerprint": "dvbjicy8g1",
+      "Integrity": "JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\bundle\\https---github.com-risonho123-repositorio_3A.git.styles.css"
@@ -962,12 +962,12 @@
       "OriginalItemSpec": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-qgm9qy83im.gz",
+      "Identity": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-cg8v9crgu3.gz",
       "SourceId": "https---github.com-risonho123-repositorio_3A.git",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/https---github.com-risonho123-repositorio_3A.git",
-      "RelativePath": "https---github.com-risonho123-repositorio_3A.git#[.{fingerprint=qgm9qy83im}]!.bundle.scp.css.gz",
+      "RelativePath": "https---github.com-risonho123-repositorio_3A.git#[.{fingerprint=cg8v9crgu3}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -976,8 +976,8 @@
       "RelatedAsset": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\https---github.com-risonho123-repositorio_3A.git.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5nhll9qe9n",
-      "Integrity": "b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=",
+      "Fingerprint": "dvbjicy8g1",
+      "Integrity": "JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\https---github.com-risonho123-repositorio_3A.git.bundle.scp.css"
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "qgm9qy83im",
-      "Integrity": "BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=",
+      "Fingerprint": "cg8v9crgu3",
+      "Integrity": "jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\bundle\\https---github.com-risonho123-repositorio_3A.git.styles.css"
@@ -1039,8 +1039,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "qgm9qy83im",
-      "Integrity": "BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=",
+      "Fingerprint": "cg8v9crgu3",
+      "Integrity": "jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\https---github.com-risonho123-repositorio_3A.git.bundle.scp.css"
@@ -1086,6 +1086,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\imagens\\download.jpg",
+      "SourceId": "https---github.com-risonho123-repositorio_3A.git",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\",
+      "BasePath": "_content/https---github.com-risonho123-repositorio_3A.git",
+      "RelativePath": "imagens/download#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "smlrq8ht0y",
+      "Integrity": "RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\download.jpg"
     },
     {
       "Identity": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2395,12 +2416,12 @@
     },
     {
       "Route": "https---github.com-risonho123-repositorio_3A.git.bundle.scp.css",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-qgm9qy83im.gz",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-cg8v9crgu3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000554016620"
+          "Quality": "0.000559597090"
         }
       ],
       "ResponseHeaders": [
@@ -2410,15 +2431,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2438,13 +2459,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "W/\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
@@ -2459,7 +2480,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6043"
+          "Value": "5914"
         },
         {
           "Name": "Content-Type",
@@ -2467,11 +2488,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2481,13 +2502,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
     {
       "Route": "https---github.com-risonho123-repositorio_3A.git.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-qgm9qy83im.gz",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-cg8v9crgu3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2496,7 +2517,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -2504,11 +2525,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2526,18 +2547,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs="
+          "Value": "sha256-JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y="
         }
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.bundle.scp.css",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-qgm9qy83im.gz",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.bundle.scp.css",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-cg8v9crgu3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000554016620"
+          "Quality": "0.000559597090"
         }
       ],
       "ResponseHeaders": [
@@ -2547,15 +2568,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2575,13 +2596,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "W/\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "label",
@@ -2589,12 +2610,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.bundle.scp.css",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.bundle.scp.css",
       "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\https---github.com-risonho123-repositorio_3A.git.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2604,7 +2625,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6043"
+          "Value": "5914"
         },
         {
           "Name": "Content-Type",
@@ -2612,11 +2633,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2626,7 +2647,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "label",
@@ -2634,13 +2655,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-qgm9qy83im.gz",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\z9a1n4tvof-cg8v9crgu3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2649,7 +2670,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -2657,11 +2678,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2679,7 +2700,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "label",
@@ -2687,18 +2708,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs="
+          "Value": "sha256-JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y="
         }
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.styles.css",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-qgm9qy83im.gz",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.styles.css",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-cg8v9crgu3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000554016620"
+          "Quality": "0.000559597090"
         }
       ],
       "ResponseHeaders": [
@@ -2708,15 +2729,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2736,13 +2757,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "W/\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "label",
@@ -2750,12 +2771,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.styles.css",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.styles.css",
       "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\scopedcss\\bundle\\https---github.com-risonho123-repositorio_3A.git.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2765,7 +2786,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6043"
+          "Value": "5914"
         },
         {
           "Name": "Content-Type",
@@ -2773,11 +2794,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2787,7 +2808,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "label",
@@ -2795,13 +2816,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
     {
-      "Route": "https---github.com-risonho123-repositorio_3A.git.qgm9qy83im.styles.css.gz",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-qgm9qy83im.gz",
+      "Route": "https---github.com-risonho123-repositorio_3A.git.cg8v9crgu3.styles.css.gz",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-cg8v9crgu3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2810,7 +2831,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -2818,11 +2839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2840,7 +2861,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qgm9qy83im"
+          "Value": "cg8v9crgu3"
         },
         {
           "Name": "label",
@@ -2848,18 +2869,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs="
+          "Value": "sha256-JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y="
         }
       ]
     },
     {
       "Route": "https---github.com-risonho123-repositorio_3A.git.styles.css",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-qgm9qy83im.gz",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-cg8v9crgu3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000554016620"
+          "Quality": "0.000559597090"
         }
       ],
       "ResponseHeaders": [
@@ -2869,15 +2890,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2897,13 +2918,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "W/\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
@@ -2918,7 +2939,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6043"
+          "Value": "5914"
         },
         {
           "Name": "Content-Type",
@@ -2926,11 +2947,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc=\""
+          "Value": "\"jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2940,13 +2961,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BsS3rkirjmuOc44CSJvvyAMiVPYB65JEtNLHiBdtalc="
+          "Value": "sha256-jEWBgZ9biNEb2pE6rH8mp7qnUemCAOovFA4fhg/cFo8="
         }
       ]
     },
     {
       "Route": "https---github.com-risonho123-repositorio_3A.git.styles.css.gz",
-      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-qgm9qy83im.gz",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\Debug\\net9.0\\compressed\\ok9ytxiu88-cg8v9crgu3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2955,7 +2976,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1804"
+          "Value": "1786"
         },
         {
           "Name": "Content-Type",
@@ -2963,11 +2984,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs=\""
+          "Value": "\"JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Jul 2025 21:18:44 GMT"
+          "Value": "Fri, 11 Jul 2025 01:48:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2985,7 +3006,89 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-b5oyxPOgd42IDVr9bqf1BXjws4ax7QNDfXQP0F/4Dxs="
+          "Value": "sha256-JxuvbtXvEpeBnjBwTHFuL/4PPYcc7b3GDCk1I4Z5y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/download.jpg",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\imagens\\download.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Jul 2025 00:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/download.smlrq8ht0y.jpg",
+      "AssetFile": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\wwwroot\\imagens\\download.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5379"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Jul 2025 00:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "smlrq8ht0y"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/download.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHBo0f2R1NQqBAYrvT3rOgggKNgYDmwjVlqg7RzqyaA="
         }
       ]
     },
