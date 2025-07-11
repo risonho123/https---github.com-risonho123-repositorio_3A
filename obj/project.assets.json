@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A.git\\https---github.com-risonho123-repositorio_3A.git.csproj",
+      "projectUniqueName": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\https---github.com-risonho123-repositorio_3A.git.csproj",
       "projectName": "https---github.com-risonho123-repositorio_3A.git",
-      "projectPath": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A.git\\https---github.com-risonho123-repositorio_3A.git.csproj",
+      "projectPath": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\https---github.com-risonho123-repositorio_3A.git.csproj",
       "packagesPath": "C:\\Users\\duduf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A.git\\obj\\",
+      "outputPath": "C:\\Users\\duduf\\Documents\\GitHub\\https---github.com-risonho123-repositorio_3A\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
